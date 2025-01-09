@@ -1,0 +1,7 @@
+bin
+etc
+include
+lib
+share
+src/env_variable.json
+pyvenv.cfg

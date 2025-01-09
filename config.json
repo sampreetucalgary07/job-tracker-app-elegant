@@ -1,0 +1,11 @@
+{
+  "path": {
+    "css_path": "./assets/styles.css",
+    "job_tracker_csv_path": "./data/job_applications.csv"
+  },
+  "database": {
+    "collection": "test",
+    "filetype": "json",
+    "filename": "test"
+  }
+}
