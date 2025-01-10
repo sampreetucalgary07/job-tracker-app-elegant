@@ -11,7 +11,7 @@ def passcode_dialog():
     st.session_state.passcode = st.text_input("Enter passcode", type="password", max_chars=6)
 
     if st.button("Submit", type="primary", icon = "🎯"):
-        if st.session_state.passcode == env_variables["app_passcode"]:
+        if st.session_state.passcode == os.environ.get("app_passcode"):
             #st.success("Correct passcode. Welcome to the app!")
             with st.spinner('Welcome! Loading job applications...'):
                 time.sleep(1)
