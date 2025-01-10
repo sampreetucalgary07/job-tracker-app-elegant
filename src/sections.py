@@ -2,9 +2,9 @@ import streamlit as st
 import time
 import os
 
-from src.utils import load_json
+# from src.utils import load_json
 
-env_variables = load_json("./env_variable.json")
+# env_variables = load_json("./env_variable.json")
 
 @st.dialog(title="Welcome to Job tracker app")
 def passcode_dialog():
