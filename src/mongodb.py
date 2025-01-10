@@ -46,7 +46,7 @@ def update_mongodb_db(df):
 def read_mongodb_db():
     db = client['job-tracker']
     st.success("Connected to the databasE")
-    collection = db['all-jobs'] #db[collection_name]
+    collection = client['job-tracker']['all-jobs'] #db[collection_name]
     items = collection.find()
     return pd.DataFrame(list(items))
 
