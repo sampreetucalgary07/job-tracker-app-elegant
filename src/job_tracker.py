@@ -24,6 +24,7 @@ def read_job_df(df):
     """
     # df = pd.read_csv(df_path))
     #df = df.drop(columns=["_id"])
+    print(df)
     df['Date'] = pd.to_datetime(df['Date'])
     df['Closing Date'] = pd.to_datetime(df['Closing Date'])
     return df

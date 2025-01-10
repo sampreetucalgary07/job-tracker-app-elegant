@@ -57,6 +57,5 @@ def read_mongodb_db():
     # st.success("Connected to the databasE")
     # collection = client['job-tracker']['all-jobs'] #db[collection_name]
     items = collection.find()
-    st.write(pd.DataFrame(list(items)))
     return pd.DataFrame(list(items))
 
