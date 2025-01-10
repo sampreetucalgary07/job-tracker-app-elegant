@@ -23,7 +23,7 @@ import pandas as pd
 # password = os.environ[ "db_password"]#env_variables["db_password"]
 # uri = "mongodb+srv://"+ username + ":" + password + "@"+db_name+".otx6s.mongodb.net/?retryWrites=true&w=majority&appName=Job-tracker"
 # client = MongoClient(uri, tlsCAFile=certifi.where())
-client = MongoClient(f"mongodb+srv://sampreet-vaidya{st.secrets['MONGODB_PASSWORD']}@job-tracker.otx6s.mongodb.net/?retryWrites=true&w=majority&appName=<AppName>")
+client = MongoClient(f"mongodb+srv://sampreet-vaidya:{st.secrets['MONGODB_PASSWORD']}@job-tracker.otx6s.mongodb.net/?retryWrites=true&w=majority&appName=<AppName>")
 
 # ---------- Streamlit Cloud Connection ----------
 # Create a new client and connect to the server
