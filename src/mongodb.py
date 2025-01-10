@@ -51,9 +51,11 @@ def update_mongodb_db(df):
     
 @st.cache_resource (ttl=200)
 def read_mongodb_db():
-    db = client['job-tracker']
-    st.success("Connected to the databasE")
-    collection = client['job-tracker']['all-jobs'] #db[collection_name]
+    db = client[db_name]
+    collection = db[collection_name]
+    # db = client['job-tracker']
+    # st.success("Connected to the databasE")
+    # collection = client['job-tracker']['all-jobs'] #db[collection_name]
     items = collection.find()
     st.write(items)
     return pd.DataFrame(list(items))
