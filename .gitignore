@@ -3,5 +3,5 @@ etc
 include
 lib
 share
-src/env_variable.json
+env_variable.json
 pyvenv.cfg
