@@ -4,7 +4,8 @@ import certifi
 import os
 import streamlit as st
 import pandas as pd
-from src.utils import load_json
+from pymongo.server_api import ServerApi
+#from src.utils import load_json
 
 
 # env_variables = load_json("./env_variable.json")
@@ -21,7 +22,8 @@ uri = "mongodb+srv://"+ username + ":" + password + "@"+db_name+".otx6s.mongodb.
 #@st.cache_resource
 def update_mongodb_db(df):
     df.fillna("2025-01-09",inplace=True)
-    client = MongoClient(uri, tlsCAFile=certifi.where())
+    #client = MongoClient(uri, tlsCAFile=certifi.where())
+    client = MongoClient(uri, server_api=ServerApi('1'))
     db = client[db_name]
     collection = db[collection_name]
     collection.delete_many({})
