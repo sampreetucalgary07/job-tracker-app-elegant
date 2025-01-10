@@ -5,3 +5,5 @@ lib
 share
 env_variable.json
 pyvenv.cfg
+secrets.toml
+.streamlit/secrets.toml
