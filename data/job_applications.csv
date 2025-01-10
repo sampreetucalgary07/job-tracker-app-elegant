@@ -1,16 +1,16 @@
-Date,Company,Position,Link,Location,Closing Date, Applied,Cover Letter,Optimized,LinkedIn Reach,Cold Email,Selected,Stage
-2025-01-04,Deloitte,"Consultant, Compliance",https://career8.successfactors.com/portalcareer?_s.crb=rkSycoScLt8KUTjScUb2E85wn9vrWI3NnpMsvAt3qMw%253d,Edmonton,2025-01-04,True,True, True,False,False,False, Applied
-2025-01-04,Workday,Software engineer - python,referral,Vancouver,2025-01-04,True,True, True,False,False,False, Applied
-2025-01-05,Accenture,Full Stack LLM Developer,https://www.accenture.com/ca-en/careers/jobdetails?id=R00242800_en&title=Full%20Stack%20LLM%20Developer,Edmonton,2025-01-04,True,True,True,False,False,False, Applied
-2025-01-05,Accenture,Data Migration/ETL Developer,https://www.accenture.com/ca-en/careers/jobdetails?id=R00252537_en&title=Data%20Migration%2FETL%20Developer,Calgary,2025-01-04,True,True,True,False,False,False, Applied
-2025-01-05,Accenture,Data Migration Analyst,https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Data-Migration-Analyst_R00252450,Edmonton,2025-01-04,True,True,True,False,False,False, Applied
-2025-01-05,Amii,ML Resident ,https://www.amii.ca/about/career-opportunities,Edmonton,2025-01-04,True,True,False,False,False,False, Applied
-2025-01-05,Amii,ML Resident,https://www.amii.ca/about/career-opportunities,Edmonton,2025-01-04,True,True,False,False,False,False, Applied
-2025-01-06,SGA,Data Scientist,https://alis.alberta.ca/occinfo/alberta-job-postings/data-scientist/42781142/,Calgary,2025-01-04,False,False,False,False,False,False,Not Applied
-2025-01-06,Anet Fiber Tech Inc.,Data Engineer,https://alis.alberta.ca/occinfo/alberta-job-postings/data-engineer/41994933/,na,2025-01-04,False,False,False,False,False,False,Not Applied
-2025-01-06,PluraChoice,Business Data Analyst,https://alis.alberta.ca/occinfo/alberta-job-postings/business-data-analyst/42317301/,na,2025-01-04,False,False,False,False,False,False,Not Applied
-2025-01-06,Sandi's,Data Analyst,https://alis.alberta.ca/occinfo/alberta-job-postings/data-analyst-informatics-and-systems/42676155/,na,2025-01-04,False,False,False,False,False,False,Not Applied
-2025-01-06,Global hire Placement Services Inc,Data Entry Clerk,https://alis.alberta.ca/occinfo/alberta-job-postings/data-entry-clerk/42442450/,na,2025-01-04,False,False,False,False,False,False,Not Applied
-2025-01-06,Be Epic,Software Developer,https://alis.alberta.ca/occinfo/alberta-job-postings/software-developer/42193055/,na,2025-01-04,False,False,False,False,False,False,Not Applied
-2025-01-06,Newest Immigration Consulting Ltd.,Artificial Intelligence (AI) Designer,https://alis.alberta.ca/occinfo/alberta-job-postings/artificial-intelligence-ai-designer/42759127/,na,2025-01-04,False,False,False,False,False,False,Not Applied
-2025-01-06,AiFocal Inc.,Artificial Intelligence (Ai) Software Engineer,https://alis.alberta.ca/occinfo/alberta-job-postings/artificial-intelligence-ai-software-engineer/42993217/,na,2025-01-04,False,False,False,False,False,False,Not Applied
+Date,Company,Position,Link,Location,Closing Date,Stage,Cover Letter,Optimized,LinkedIn Reach,Cold Email,Decision
+2025-01-04,Deloitte,"Consultant, Compliance",https://career8.successfactors.com/portalcareer?_s.crb=rkSycoScLt8KUTjScUb2E85wn9vrWI3NnpMsvAt3qMw%253d,Edmonton,2025-01-04,Submitted,True,True,False,False,Pending
+2025-01-04,Workday,Software engineer - python,referral,Vancouver,2025-01-04,Submitted,True,True,False,False,Not Selected
+2025-01-05,Accenture,Full Stack LLM Developer,https://www.accenture.com/ca-en/careers/jobdetails?id=R00242800_en&title=Full%20Stack%20LLM%20Developer,Edmonton,2025-01-04,Submitted,True,True,False,False,Not Selected
+2025-01-05,Accenture,Data Migration/ETL Developer,https://www.accenture.com/ca-en/careers/jobdetails?id=R00252537_en&title=Data%20Migration%2FETL%20Developer,Calgary,2025-01-04,Submitted,True,True,False,False,Not Selected
+2025-01-05,Accenture,Data Migration Analyst,https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Data-Migration-Analyst_R00252450,Edmonton,2025-01-04,Submitted,True,True,False,False,Pending
+2025-01-05,Amii,ML Resident,https://www.amii.ca/about/career-opportunities,Edmonton,2025-01-04,Submitted,True,False,False,False,Pending
+2025-01-05,Amii,ML Resident,https://www.amii.ca/about/career-opportunities,Edmonton,2025-01-04,Submitted,True,False,False,False,Pending
+2025-01-06,SGA,Data Scientist,https://alis.alberta.ca/occinfo/alberta-job-postings/data-scientist/42781142/,Calgary,2025-01-04,Not Submitted,False,False,False,False,Pending
+2025-01-06,Anet Fiber Tech Inc.,Data Engineer,https://alis.alberta.ca/occinfo/alberta-job-postings/data-engineer/41994933/,na,2025-01-04,Not Submitted,False,False,False,False,Pending
+2025-01-06,PluraChoice,Business Data Analyst,https://alis.alberta.ca/occinfo/alberta-job-postings/business-data-analyst/42317301/,na,2025-01-04,Not Submitted,False,False,False,False,Pending
+2025-01-06,Sandi's,Data Analyst,https://alis.alberta.ca/occinfo/alberta-job-postings/data-analyst-informatics-and-systems/42676155/,na,2025-01-04,Not Submitted,False,False,False,False,Pending
+2025-01-06,Global hire Placement Services Inc,Data Entry Clerk,https://alis.alberta.ca/occinfo/alberta-job-postings/data-entry-clerk/42442450/,na,2025-01-04,Not Submitted,False,False,False,False,Pending
+2025-01-06,Be Epic,Software Developer,https://alis.alberta.ca/occinfo/alberta-job-postings/software-developer/42193055/,na,2025-01-04,Not Submitted,False,False,False,False,Pending
+2025-01-06,Newest Immigration Consulting Ltd.,Artificial Intelligence (AI) Designer,https://alis.alberta.ca/occinfo/alberta-job-postings/artificial-intelligence-ai-designer/42759127/,na,2025-01-04,Not Submitted,False,False,False,False,Pending
+2025-01-06,AiFocal Inc.,Artificial Intelligence (Ai) Software Engineer,https://alis.alberta.ca/occinfo/alberta-job-postings/artificial-intelligence-ai-software-engineer/42993217/,na,2025-01-04,Not Submitted,False,False,False,False,Pending
